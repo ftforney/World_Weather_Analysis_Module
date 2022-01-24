@@ -1,3 +1,13 @@
+# config.py
+config.py
+
+# Non-Staging Directory
+Do Not Stage/
+
+# Other
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
